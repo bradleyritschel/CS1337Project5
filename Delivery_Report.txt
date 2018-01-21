@@ -1,0 +1,63 @@
+Cargo: Beer
+Weight (lbs) of the cargo on Earth: 313
+Weight (lbs) of the cargo on the pickup planet: 1000
+Weight (lbs) of the cargo on the delivery planet: 0
+Distance (millions of miles) the shipment will travel: 31
+The time it will take to deliver the cargo: 7 hours, 1 days, and 0 years.
+——————————
+Cargo: Milk
+Weight (lbs) of the cargo on Earth: 3185
+Weight (lbs) of the cargo on the pickup planet: 1000
+Weight (lbs) of the cargo on the delivery planet: 0
+Distance (millions of miles) the shipment will travel: 31
+The time it will take to deliver the cargo: 7 hours, 1 days, and 0 years.
+——————————
+Cargo: Honey
+Weight (lbs) of the cargo on Earth: 729
+Weight (lbs) of the cargo on the pickup planet: 1000
+Weight (lbs) of the cargo on the delivery planet: 0
+Distance (millions of miles) the shipment will travel: 105
+The time it will take to deliver the cargo: 9 hours, 4 days, and 0 years.
+——————————
+Cargo: Chips
+Weight (lbs) of the cargo on Earth: 116
+Weight (lbs) of the cargo on the pickup planet: 100
+Weight (lbs) of the cargo on the delivery planet: 0
+Distance (millions of miles) the shipment will travel: 26
+The time it will take to deliver the cargo: 13 hours, 0 days, and 0 years.
+——————————
+Cargo: Grapes
+Weight (lbs) of the cargo on Earth: 11
+Weight (lbs) of the cargo on the pickup planet: 10
+Weight (lbs) of the cargo on the delivery planet: 0
+Distance (millions of miles) the shipment will travel: 67
+The time it will take to deliver the cargo: 19 hours, 2 days, and 0 years.
+——————————
+Cargo: Computers
+Weight (lbs) of the cargo on Earth: 270
+Weight (lbs) of the cargo on the pickup planet: 100
+Weight (lbs) of the cargo on the delivery planet: 248
+Distance (millions of miles) the shipment will travel: 1641
+The time it will take to deliver the cargo: 4 hours, 34 days, and 0 years.
+——————————
+Cargo: Pizza
+Weight (lbs) of the cargo on Earth: 100
+Weight (lbs) of the cargo on the pickup planet: 100
+Weight (lbs) of the cargo on the delivery planet: 92
+Distance (millions of miles) the shipment will travel: 1689
+The time it will take to deliver the cargo: 12 hours, 3 days, and 0 years.
+——————————
+Cargo: yoyos
+Weight (lbs) of the cargo on Earth: 370
+Weight (lbs) of the cargo on the pickup planet: 100
+Weight (lbs) of the cargo on the delivery planet: 340
+Distance (millions of miles) the shipment will travel: 1746
+The time it will take to deliver the cargo: 9 hours, 36 days, and 0 years.
+——————————
+Cargo: Gumballs
+Weight (lbs) of the cargo on Earth: 100
+Weight (lbs) of the cargo on the pickup planet: 100
+Weight (lbs) of the cargo on the delivery planet: 144
+Distance (millions of miles) the shipment will travel: 2700
+The time it will take to deliver the cargo: 6 hours, 11 days, and 0 years.
+——————————
